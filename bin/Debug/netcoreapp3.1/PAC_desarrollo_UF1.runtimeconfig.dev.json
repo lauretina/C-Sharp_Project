@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\merin\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\merin\\.nuget\\packages"
+    ]
+  }
+}
